@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Dr.-Ing (ONGOING) Flight Control, Technical University of Munich 
-* M.Sc. Flight Control, Moscow Aviation Institute, 2022
-* B.Sc. Aeronautical Engineering, Moscow Aviation Institute, 2020
+* Doctoral Candidate - Flight Control, Technical University of Munich 
+* M.Sc. - Flight Control, Moscow Aviation Institute, 2022
+* B.Sc. - Aeronautical Engineering, Moscow Aviation Institute, 2020
 
 Work Experience
 ======
@@ -29,17 +29,25 @@ Work Experience
   * Moscow Aviation Institute
   * Teaching: 
     * Flight dynamics I and II
-    * • Inteligent systems and adaptive control
-    * • Applied ecology
+    * Inteligent systems and adaptive control
+    * Applied ecology
+
+* August 2018 - March 2019: Research Intern
+  * ISAE SUPAERO / Neoptera Ldt
+  * Dynamic modeling and flight control design of a VTOL aircraft
+
+* October 2017 - July 2018: Research Intern
+  * Pilot Vehicle Laboratory - Moscow Aviation Institute
+  * Design of handling qualities and PIO prediction criteria
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -59,6 +67,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
