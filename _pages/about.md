@@ -12,7 +12,9 @@ redirect_from:
 I am Zoe. Currently a research associate and doctoral candidate at the institute of flight system dynamics of the Technical University of Munich.
 
 I am interested in flight control in general, and monitoring of adaptive flight controllers. 
+
 Why monitoring? 
+
 Well, given the non-deterministic nature of adaptive control and the conservative nature of certification rules in aviation, we have to figure out another way to get adaptive flight controllers out of laboratories and into the real world. 
 I am pursuing the acceptable means of compliance that involves real time safety assurance/ monitoring.
 
