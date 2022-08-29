@@ -11,32 +11,32 @@ redirect_from:
 
 Education
 ======
-* Doctoral Candidate - Flight Control, Technical University of Munich 
-* M.Sc. - Flight Control, Moscow Aviation Institute, 2022
-* B.Sc. - Aeronautical Engineering, Moscow Aviation Institute, 2020
+* <strong> Doctoral Candidate </strong> - Flight Control, Technical University of Munich 
+* <strong> M.Sc. </strong> - Flight Control, Moscow Aviation Institute, 2022
+* <strong> B.Eng. </strong> - Aeronautical Engineering, Moscow Aviation Institute, 2020
 
 Work Experience
 ======
-* February 2022 - Present: Research Associate
+* February 2022 - Present: <strong> Research Associate </strong>
   * Institute of Flight System Dynamics - Technical University of Munich
   * Supervisor: Prof. Dr. -Ing Florian Holzapfel
 
-* April 2019 - January 2022: Research Engineer
+* April 2019 - January 2022: <strong> Research Engineer </strong>
   * Department of Flight Dynamics and Control - Moscow Aviation Institute
   * Supervisor: Prof. Dr. -Sc. Alexandr Efremov
 
-* September 2020 - July 2022: Lecturer
+* September 2020 - July 2022: <strong> Lecturer </strong>
   * Moscow Aviation Institute
   * Teaching: 
     * Flight dynamics I and II
     * Inteligent systems and adaptive control
     * Applied ecology
 
-* August 2018 - March 2019: Research Intern
+* August 2018 - March 2019: <strong> Research Intern </strong>
   * ISAE SUPAERO / Neoptera Ldt
   * Dynamic modeling and flight control design of a VTOL aircraft
 
-* October 2017 - July 2018: Research Intern
+* October 2017 - July 2018: <strong> Research Intern </strong>
   * Pilot Vehicle Laboratory - Moscow Aviation Institute
   * Design of handling qualities and PIO prediction criteria
   
