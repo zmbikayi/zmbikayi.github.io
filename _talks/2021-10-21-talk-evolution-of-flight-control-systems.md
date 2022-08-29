@@ -6,3 +6,4 @@ permalink: /talks/2021-10-21-evolution-of-flight-control
 venue: "Hindustan Institute of Technology and Science"
 date: 2021-10-21
 # location: ""
+---
