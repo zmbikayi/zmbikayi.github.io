@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zoe Mbikayi"
 title_separator          : "-"
 name                     : &name "Zoe Mbikayi"
-description              : &description "personal description"
+description              : &description " "
 url                      : https://zmbikayi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zmbikayi/zmbikayi.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/zoe-mbikayi/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

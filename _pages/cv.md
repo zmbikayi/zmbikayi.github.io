@@ -11,21 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Dr.-Ing (ONGOING) Flight Control, Technical University of Munich 
+* M.Sc. Flight Control, Moscow Aviation Institute, 2022
+* B.Sc. Aeronautical Engineering, Moscow Aviation Institute, 2020
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* February 2022 - Present: Research Associate
+  * Institute of Flight System Dynamics - Technical University of Munich
+  * Supervisor: Prof. Dr. -Ing Florian Holzapfel
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* April 2019 - January 2022: Research Engineer
+  * Department of Flight Dynamics and Control - Moscow Aviation Institute
+  * Supervisor: Prof. Dr. -Sc. Alexandr Efremov
+
+* September 2020 - July 2022: Lecturer
+  * Moscow Aviation Institute
+  * Teaching: 
+    * Flight dynamics I and II
+    * • Inteligent systems and adaptive control
+    * • Applied ecology
   
 Skills
 ======
