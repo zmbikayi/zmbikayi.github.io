@@ -17,8 +17,9 @@ Why monitoring?
 
 Well, given the non-deterministic nature of adaptive control and the conservative nature of certification rules in aviation, we have to figure out another way to get adaptive flight controllers out of laboratories and into the real world. 
 I am pursuing the acceptable means of compliance that involves real time safety assurance/ monitoring.
+This is really just a fancy way of saying I am looking at the adaptive controller, to make sure I can shut it down if it starts going crazy. And the thing here is to know when it starts going bad before it goes bad. Or at least before it puts the aircrat in jeopardy. 
 
-I am also quite interested in handling qualities and human pilot modeling/ pilot-vehicle system/ pilot-vehicle interaction.
+I am also quite interested in handling qualities and mathematical modeling of the human pilot behavior/ pilot-vehicle system/ pilot-vehicle interaction.
 
 Personal Interests
 ------
