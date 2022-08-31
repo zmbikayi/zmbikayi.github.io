@@ -9,7 +9,7 @@ redirect_from:
   - /home/
 ---
 
-Hi! I am Zoe. Currently a research associate and doctoral candidate at the institute of flight system dynamics of the Technical University of Munich.
+Hi! I am Zoe. Currently a research associate and doctoral candidate at the Institute of Flight System Dynamics of the Technical University of Munich.
 
 I am interested in flight control in general, and monitoring of adaptive flight controllers. 
 
