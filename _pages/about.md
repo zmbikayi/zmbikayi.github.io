@@ -27,6 +27,7 @@ Personal Interests
   * Guitar
   * Photography
   * Traditional archery
+  * Biking
   * Messing around with computers and networks
   * DIY
   * Paragliding (Haven't flown in a while though)
