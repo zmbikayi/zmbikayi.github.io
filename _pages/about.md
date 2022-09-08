@@ -25,6 +25,7 @@ Personal Interests
 ------
   * Piano
   * Guitar
+  * Photography
   * Traditional archery
   * Messing around with computers and networks
   * DIY
