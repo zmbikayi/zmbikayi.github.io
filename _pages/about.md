@@ -25,7 +25,7 @@ Personal Interests
 ------
   * Piano
   * Guitar
-  * P<a href="https://zmbikayi.github.io/portfolio.html" target="_blank">Photography</a>
+  * <a href="https://zmbikayi.github.io/portfolio.html" target="_blank">Photography</a>
   * Traditional archery
   * Biking
   * Messing around with computers and networks
