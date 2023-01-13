@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* <strong> Doctoral Candidate </strong> - Flight Control, Technical University of Munich 
-* <strong> M.Sc. </strong> - Flight Control, Moscow Aviation Institute, 2022
-* <strong> B.Eng. </strong> - Aeronautical Engineering, Moscow Aviation Institute, 2020
+* <strong> Doctoral Candidate </strong> - Flight Control, Technical University of Munich, Munich, Germany 
+* <strong> M.Sc. </strong> - Flight Control, Moscow Aviation Institute, Moscow, Russia, 2022
+* <strong> B.Eng. </strong> - Aeronautical Engineering, Moscow Aviation Institute, Moscow, Russia, 2020
+* <strong> Non-Degree </strong> - Ingenieur Supaero, Isae Supaero, Toulouse, France, 2019/ (2020 graduation)
 
 Work Experience
 ======
