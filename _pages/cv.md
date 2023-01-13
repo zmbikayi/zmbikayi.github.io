@@ -19,7 +19,7 @@ Work Experience
 ======
 * February 2022 - Present: <strong> Research Associate </strong>
   * Institute of Flight System Dynamics - Technical University of Munich
-  * Supervisor: Prof. Dr. -Ing Florian Holzapfel
+  * Supervisor: Prof. Dr. -Ing Florian Holzapfel <a href="http://example.com/" target="_blank">Hello, world!</a>
 
 * April 2019 - January 2022: <strong> Research Engineer </strong>
   * Department of Flight Dynamics and Control - Moscow Aviation Institute
