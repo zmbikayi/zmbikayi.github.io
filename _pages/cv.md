@@ -19,11 +19,11 @@ Work Experience
 ======
 * February 2022 - Present: <strong> Research Associate </strong>
   * Institute of Flight System Dynamics - Technical University of Munich
-  * Supervisor: <a href="https://scholar.google.com/citations?user=J2S6X-IAAAAJ&hl=de/" target="_blank">Prof. Dr. -Ing Florian Holzapfel</a>
+  * Supervisor: <a href="https://www.professoren.tum.de/en/holzapfel-florian" target="_blank">Prof. Dr. -Ing Florian Holzapfel</a>
 
 * April 2019 - January 2022: <strong> Research Engineer </strong>
   * Department of Flight Dynamics and Control - Moscow Aviation Institute
-  * Supervisor: Prof. Dr. -Sc. Alexandr Efremov
+  * Supervisor: <a href="https://mai.ru/content/people/index.php?ID=7782" target="_blank">Prof. Dr. -Sc. Alexandr Efremov</a> 
 
 * September 2020 - July 2022: <strong> Lecturer </strong>
   * Moscow Aviation Institute
