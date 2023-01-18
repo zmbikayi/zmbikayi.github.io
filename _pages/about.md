@@ -9,7 +9,7 @@ redirect_from:
   - /home/
 ---
 
-Hi! I am Zoe. Currently a research associate and doctoral candidate at the Institute of Flight System Dynamics of the Technical University of Munich.
+Hi! I am Zoe. Currently a <a href="https://www.fsd.ed.tum.de/staff-members/zoe-mbikayi/"> research associate </a> and doctoral candidate at the <a href="https://www.fsd.ed.tum.de/"> Institute of Flight System Dynamics</a> of the Technical University of Munich - <a href="https://www.ed.tum.de/en/ed/home-1/"> School of Engineering and Design</a>.
 
 I am interested in flight control in general, and monitoring of adaptive flight controllers. 
 
