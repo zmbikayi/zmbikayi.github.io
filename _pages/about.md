@@ -37,3 +37,5 @@ Personal Interests
   * Paragliding (Haven't flown in a while though)
 
   <img src="/images/zoe_pic1.JPG" alt="Zoe" style= "width: 50%; height: auto; display: block; margin-left: auto; margin-right: auto">
+
+  <img src="/images/zoe_pic2.JPG" alt="Zoe" style= "width: 50%; height: auto; display: block; margin-left: auto; margin-right: auto">
