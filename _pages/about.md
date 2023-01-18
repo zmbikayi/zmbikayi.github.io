@@ -35,3 +35,5 @@ Personal Interests
   * Messing around with computers and networks
   * DIY
   * Paragliding (Haven't flown in a while though)
+
+  <img src="/images/zoe_pic1.JPG" alt="Zoe" style= "width: 100%; height: auto">
