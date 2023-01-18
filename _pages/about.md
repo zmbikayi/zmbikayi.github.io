@@ -38,6 +38,10 @@ Personal Interests
 
 Just me
 ------
+<a target="_blank" href="/images/zoe_pic1.JPG">
   <img src="/images/zoe_pic1.JPG" alt="Zoe" style= "width: 50%; height: auto; display: block; margin-left: auto; margin-right: auto">
+</a>
 
+<a target="_blank" href="/images/zoe_pic1.JPG">
   <img src="/images/zoe_pic2.JPG" alt="Zoe" style= "width: 50%; height: auto; display: block; margin-left: auto; margin-right: auto">
+</a>
