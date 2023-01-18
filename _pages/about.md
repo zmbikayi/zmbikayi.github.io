@@ -9,17 +9,21 @@ redirect_from:
   - /home/
 ---
 
-Hi! I am Zoe. Currently a <a href="https://www.fsd.ed.tum.de/staff-members/zoe-mbikayi/"> research associate </a> and doctoral candidate at the <a href="https://www.fsd.ed.tum.de/"> Institute of Flight System Dynamics</a> of the Technical University of Munich - <a href="https://www.ed.tum.de/en/ed/home-1/"> School of Engineering and Design</a>.
+Hi! I am Zoe. Currently a <a href="https://www.fsd.ed.tum.de/staff-members/zoe-mbikayi/"> research associate </a> and doctoral candidate at the <a href="https://www.fsd.ed.tum.de/" target="_blank"> Institute of Flight System Dynamics</a> of the Technical University of Munich - <a href="https://www.ed.tum.de/en/ed/home-1/" target="_blank"> School of Engineering and Design</a>.
 
-I am interested in flight control in general, and monitoring of adaptive flight controllers. 
+I spent most of my early academic years in Russia, studying at Moscow Aviation Institute, and working in its department of <a href="https://k106.mai.ru/" target="_blank"> Flight Dynamics and Control</a> as a lecturer and doing research in the Pilot Vehicle Laboratory, under <a href="https://mai.ru/content/people/index.php?ID=7782" target="_blank">Prof. Alexander Efremov</a> . I also spent some time studying and working at Isae Supaero in Toulouse, France, in the department of <a href="https://www.isae-supaero.fr/en/research/departments/department-of-aerospace-vehicles-design-and-control-dcas-95/dcas-resources-and-equipment/" target="_blank"> Aerospace Vehicle Design and Control</a>.
 
-Why monitoring? 
+Research Interests
+------
 
-Well, given the non-deterministic nature of adaptive control and the conservative nature of certification rules in aviation, we have to figure out another way to get adaptive flight controllers out of laboratories and into the real world. 
-I am pursuing the acceptable means of compliance that involves real time safety assurance/ monitoring.
-This is really just a fancy way of saying I am looking at the adaptive controller, to make sure I can shut it down if it starts going crazy. And the thing here is to know when it starts going bad before it goes bad. Or at least before it puts the aircrat in jeopardy. 
+This is easy. I am interested in flight control in general.
 
-I am also quite interested in handling qualities and mathematical modeling of the human pilot behavior/ pilot-vehicle system/ pilot-vehicle interaction.
+For those who have no idea what it means, well, I make flying things fly. Or more specifically, I make them such that they can be controlled either by a human or automatically. And by flyng things, I mean aircrafts. 
+
+For those saying "flying control" is a little broad, well, I've worked quite a bit in handling qualities, mathematical modeling of the human pilot behavior, and pilot vehicle systems, and mostly inner loop control.
+
+Also, recently I started developing an interest in trajectory generation and trajectory control. It might just become my main area of interest.
+
 
 Personal Interests
 ------
