@@ -8,4 +8,4 @@ paperurl: 'https://doi.org/10.3390/aerospace8100290'
 citation: 'Efremov, A.V., Mbikayi, Z. and Efremov, E.V., &quot;Comparative study of different algorithms for a flight control system design and the potentiality of their integration with a sidestick.&quot; <i> Aerospace</i>, 8(10), p.290, 2021.'
 ---
 
-[Download paper here](https://zmbikayi.github.io/files/aerospace-08-00290-v2.pdf)
+<!-- [Download paper here](https://zmbikayi.github.io/files/aerospace-08-00290-v2.pdf) -->

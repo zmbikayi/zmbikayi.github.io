@@ -16,7 +16,7 @@ I spent most of my early academic years in Russia, studying at Moscow Aviation I
 Research Interests
 ------
 
-This is easy. I am interested in flight control in general. Check out my <a href="https://zmbikayi.github.io/publications/"> publications.</a>
+This is easy. I am interested in flight control in general. Check out my <a href="https://zmbikayi.github.io/publications/"> publications.</a> Most of the papers are open access. But if you can't find a paper, shoot me an email and I will be happy to share the PDF.
 
 For those who have no idea what it means, well, I make flying things fly. Or more specifically, I make them such that they can be controlled either by a human or automatically. And by flyng things, I mean aircrafts. 
 
