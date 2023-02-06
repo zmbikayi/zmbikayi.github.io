@@ -31,8 +31,8 @@ Personal Interests
   * <a href="https://zmbikayi.github.io/portfolio">Photography</a>
   * Traditional archery
   * Biking
-  * Messing around with computers and networks, and doing DIY. For example I build myself a closed smart home system (Focus on privacy. No Amazon or google stuff). From building the home server computer and hardware to control the appliances, to writting the software to control the whole thing and training the AI models for intent recognition. Well, I also used open source models for speech recognition and text to speech. (And I'm looking forward to the ChatGPT API). If you're interested, I'd be happy to share the software)
   * Paragliding (Haven't flown in a while though)
+  * Messing around with computers and networks, and doing DIY. For example I build myself a closed smart home system (Focus on privacy. No Amazon or google stuff). From building the home server computer and hardware to control the appliances, to writting the software to control the whole thing and training the AI models for intent recognition. Well, I also used open source models for speech recognition and text to speech. (And I'm looking forward to the ChatGPT API). If you're interested, I'd be happy to share the software)
 
 Just me
 ------
