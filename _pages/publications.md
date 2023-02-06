@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-If you can't find a one of the papers, send me an email and I will be happy to share the PDF.
+If you can't find one of the papers, send me an email and I will be happy to share the PDF.
 
 {% include base_path %}
 
