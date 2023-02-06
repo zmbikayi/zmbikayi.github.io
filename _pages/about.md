@@ -18,11 +18,11 @@ Research Interests
 
 This is easy. I am interested in flight control in general. Check out my <a href="https://zmbikayi.github.io/publications/"> publications.</a> Most of the papers are open access. But if you can't find a paper, shoot me an email and I will be happy to share the PDF.
 
-For those who have no idea what it means, well, I make flying things fly. Or more specifically, I make them such that they can be controlled either by a human or automatically. And by flyng things, I mean aircrafts. 
+For those who have no idea what it means, well, I make flying things fly. Or more specifically, I make them such that they can be controlled either by a human or automatically. And by flying things, I mean aircraft, spacecraft, airships, etc... 
 
-For those saying "flying control" is a little broad, well, I've worked quite a bit in handling qualities, mathematical modeling of the human pilot behavior, and pilot vehicle systems, and mostly inner loop control.
+For those saying "flight control" is a little broad, well, I've worked quite a bit in handling qualities, mathematical modeling of the human pilot behavior, and pilot vehicle systems, and mostly inner loop control.
 
-Also, recently I started developing an interest in trajectory generation and trajectory control. It might just become my main area of interest.
+Although I am still doing the things mentioned above, I recently started developing an interest in trajectory generation and trajectory control. And it is becoming my main area of interest.
 
 
 Personal Interests
