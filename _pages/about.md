@@ -22,7 +22,7 @@ For those who have no idea what it means, well, I make flying things fly. Or mor
 
 For those saying "flight control" is a little broad, well, I've worked quite a bit in handling qualities, mathematical modeling of the human pilot behavior, and pilot vehicle systems, and mostly inner loop control.
 
-Although I am still doing the things mentioned above, I recently started developing an interest in trajectory generation and trajectory control. And it is becoming my main area of interest.
+And I recently started shifting my interests towards trajectory generation and trajectory control.
 
 
 Personal Interests
@@ -32,7 +32,7 @@ Personal Interests
   * Traditional archery
   * Biking
   * Paragliding (Haven't flown in a while though)
-  * Messing around with computers and networks, and doing DIY: For example I built myself a closed smart home system (Focus on privacy. No Amazon or google stuff). From building the home server computer and hardware to control the appliances, to writting the software to control the whole thing and training the AI models for intent recognition. Well, I also used open source models for speech recognition and text to speech. (And I'm looking forward to the ChatGPT API). If you're interested, I'd be happy to share the software)
+  * Messing around with computers and networks, and doing DIY: For example I built myself a closed smart home system (Focus on privacy. No Amazon or google stuff) - Jarvis. From building the home server computer and hardware to control the appliances, to writting the software to control the whole thing and training the AI models. Well, I also used some open source models and pieces of code. I have been expanding it and it is becoming a general purpose assitant, capable of having conversations, code (sometimes even write code to improve itself. But only I can do the integration after reviewing the code), etc.. Oh, and, you might have guessed it, I'm also using the ChatGPT API to simulate certain things, and run a part of my conversation engine (And yes. I've looked into the privacy policy of OpenAI, and I believe it is acceptable). 
 
 Just me
 ------
