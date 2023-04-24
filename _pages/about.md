@@ -34,7 +34,7 @@ Personal Interests
   * Paragliding (Haven't flown in a while though)
   * Messing around with computers and networks, and doing DIY: For example I built myself a closed smart home system (Focus on privacy. No Amazon or google stuff) - Jarvis. From building the home server computer and hardware to control the appliances, to writting the software to control the whole thing and training the AI models. Well, I also used some open source models and pieces of code. 
   
-  I have been expanding it and it is becoming a general purpose assisstant, capable of not only manage my apartment, but also having conversations, code (sometimes even write code to improve itself. But only I can do the integration after reviewing the code), etc.. Oh, and, you might have guessed it, I'm also using the ChatGPT API to simulate certain things, and run parts of my conversation engine (And yes. I've looked into the privacy policy of OpenAI, and I believe it is acceptable). 
+   I have been expanding it and it is becoming a general purpose assisstant, capable of not only manage my apartment, but also having conversations, code (sometimes even write code to improve itself. But only I can do the integration after reviewing the code), etc.. Oh, and, you might have guessed it, I'm also using the ChatGPT API to simulate certain things, and run parts of my conversation engine (And yes. I've looked into the privacy policy of OpenAI, and I believe it is acceptable). 
 
 Just me
 ------
