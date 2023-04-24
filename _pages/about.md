@@ -33,7 +33,7 @@ Personal Interests
 
   * Traditional archery: We can say that I am ready for the zombie apocalypse. Well, I just have to learn how to make my own arrows and I'll be ready. So, whoever is in charge of the apocalypses, please hold on your zombies a little longer.
 
-  * Biking: I measure my performance/ improvement by the number of times I fall, or couldn't control the bike in a drift. These metrics are starting to become useless because I can't even remember the last time I fell :satisfied:.
+  * Biking: I measure my performance/ improvement by the number of times I fall, or couldn't control the bike in a drift. These metrics are starting to become useless because I can't even remember the last time I fell.
 
   * Paragliding (Haven't flown in a while though).
 
