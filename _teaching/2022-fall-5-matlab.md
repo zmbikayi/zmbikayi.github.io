@@ -7,4 +7,4 @@ venue: "Technical University of Munich, Institute of Flight System Dynamics"
 date: 2022-04-01
 location: "Munich, Germany"
 ---
-Summer 2022/ 
+Summer 2022/ Winter 2022
