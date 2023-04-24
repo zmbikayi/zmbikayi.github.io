@@ -29,14 +29,14 @@ Personal Interests
 ------
   * Playing music: I play the Piano and the Guitar. I got myself a Violin but I'm still trying to figure out how to get all the planets in the solar system, together with the sun, in the same room, to discuss the possibility of giving me days that are longer than 24 hours. Then I would able to learn the violin.
 
-  * Photography: You can see some photos <a href="https://zmbikayi.github.io/portfolio">here</a>.4
+  * Photography: You can see some photos <a href="https://zmbikayi.github.io/portfolio">here</a>.
 
   * Traditional archery: We can say that I am ready for the zombie apocalypse. Well, I just have to learn how to make my own arrows and I'll be ready. So, whoever is in charge of the apocalypses, please hold on your zombies a little longer.
 
   * Biking: I measure my performance/ improvement by the number of times I fall, or couldn't control the bike in a drift. These metrics are starting to become useless because I can't even remember the last time I fell :satisfied:.
 
   * Paragliding (Haven't flown in a while though).
-  
+
   * Messing around with computers and networks, and doing DIY: For example I built myself a closed smart home system - Jarvis, with a special focus on privacy:
     * I'm so obssessed with privacy that I purposefully include some randomness into my daily routine, and activities, just to confuse my enemies. I even have Jarvis randomly turn the lights on or off, whether I'm home or not. Get it? \
     Well, I promise I don't have any enemies. At least none that I know of. And back to Jarvis:
