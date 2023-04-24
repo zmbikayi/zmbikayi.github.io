@@ -28,7 +28,7 @@ And I recently started shifting my interests towards trajectory generation and t
 Personal Interests
 ------
   * Playing music (Piano and Guitar)
-  * Photography:  You can see some photos<a href="https://zmbikayi.github.io/portfolio"> here</a>
+  * Photography:  You can see some photos <a href="https://zmbikayi.github.io/portfolio">here</a>.
   * Traditional archery
   * Biking
   * Paragliding (Haven't flown in a while though)
