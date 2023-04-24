@@ -32,8 +32,13 @@ Personal Interests
   * Traditional archery
   * Biking
   * Paragliding (Haven't flown in a while though)
-  * Messing around with computers and networks, and doing DIY: For example I built myself a closed smart home system (Focus on privacy. No Amazon or google stuff) - Jarvis. From building the home server computer and hardware to control the appliances, to writting the software to control the whole thing and training the AI models. Well, I also used some open source models and pieces of code. \
-  I have been expanding it and it is becoming a general purpose assisstant, capable of not only manage my apartment, but also having conversations, code (sometimes even write code to improve itself. But only I can do the integration after reviewing the code), etc.. Oh, and, you might have guessed it, I'm also using the ChatGPT API to simulate certain things, and run parts of my conversation engine (And yes. I've looked into the privacy policy of OpenAI, and I believe it is acceptable). 
+  * Messing around with computers and networks, and doing DIY: For example I built myself a closed smart home system - Jarvis, with a special focus on privacy:
+    * I'm so obssessed with privacy that I purposefully include some randomness into my daily routine, and activities, just to confuse my enemies. I even have Jarvis randomly turn the lights on or off, whether I'm home or not. Get it?
+    Well, I promise I don't have any enemies. At least nont that I know of. And back to Jarvis:
+    * I try to do everything from scratch or using open source tools whose I code I can review myself before using. Or, as I typically do, take the parts of the open source code that are optimized already, and re-write the functionalities that I need.
+      * From building the home server computer and hardware to control the appliances, to writting the software to control the whole thing and training the AI models. Well, I also used some open source models and pieces of code. 
+      * I have been expanding it and it/ she is becoming a general purpose assisstant, capable of not only manage my apartment, but also having conversations, write code (sometimes even write code to improve herself. But only I can do the integration after reviewing the code), etc.. 
+      * Oh, you might have guessed it, I'm also using the ChatGPT API to simulate certain things like an intent recognition model, and run parts of my conversation engine (And yes. I've looked into the privacy policy of OpenAI, and I believe it is acceptable). 
 
 Just me
 ------
