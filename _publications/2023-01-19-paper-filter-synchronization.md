@@ -1,7 +1,7 @@
 ---
 title: "Filter and sensor delay synchronization in incremental flight control laws"
 collection: publications
-permalink: /publication/2023-01-19-paper-human-pilot-interaction
+permalink: /publication/2023-01-19-paper-filter-synchronization
 date: 2023-01-19
 venue: 'Aerospace Systems (2023)'
 paperurl: 'https://doi.org/10.1007/s42401-022-00186-2'
