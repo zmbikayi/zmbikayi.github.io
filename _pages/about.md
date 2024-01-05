@@ -27,13 +27,24 @@ And I recently started shifting my interests towards trajectory generation and t
 
 Personal Interests
 ------
-  * Playing music (Piano and Guitar)
-  * Photography:  You can see some photos <a href="https://zmbikayi.github.io/portfolio">here</a>.
-  * Traditional archery
-  * Biking
-  * Paragliding (Haven't flown in a while though)
-  * Messing around with computers and networks, and doing DIY: For example I built myself a closed smart home system (Focus on privacy. No Amazon or google stuff) - Jarvis. From building the home server computer and hardware to control the appliances, to writting the software to control the whole thing and training the AI models. Well, I also used some open source models and pieces of code. \
-  I have been expanding it and it is becoming a general purpose assisstant, capable of not only manage my apartment, but also having conversations, code (sometimes even write code to improve itself. But only I can do the integration after reviewing the code), etc.. Oh, and, you might have guessed it, I'm also using the ChatGPT API to simulate certain things, and run parts of my conversation engine (And yes. I've looked into the privacy policy of OpenAI, and I believe it is acceptable). 
+  * Playing music: I play the Piano and the Guitar. I got myself a Violin but I'm still trying to figure out how to get all the planets in the solar system, together with the sun, in the same room, to discuss the possibility of giving me days that are longer than 24 hours. Then I would able to learn the violin.
+
+  * Photography: You can see some photos <a href="https://zmbikayi.github.io/portfolio">here</a>.
+
+  * Traditional archery: We can say that I am ready for the zombie apocalypse. Well, I just have to learn how to make my own arrows and I'll be ready. So, whoever is in charge of the apocalypses, please hold on your zombies a little longer.
+
+  * Biking: I measure my performance/ improvement by the number of times I fall, or couldn't control the bike in a drift. These metrics are starting to become useless because I can't even remember the last time I fell.
+
+  * Paragliding (Haven't flown in a while though).
+
+  * Messing around with computers and networks, and doing DIY: For example I built myself a closed smart home system - Jarvis, with a special focus on privacy:
+    * I'm so obssessed with privacy that I purposefully include some randomness into my daily routine, and activities, just to confuse my enemies. I even have Jarvis randomly turn the lights on or off, whether I'm home or not. Get it? \
+    Well, I promise I don't have any enemies. At least none that I know of. And back to Jarvis:
+    * I try to do everything from scratch or using open source tools whose I code I can review myself before using. Or, as I typically do, take the parts of the open source code that are optimized already, and re-write the functionalities that I need:
+      * Of course the first step was to build the home server. Which is basically just a computer running Ubuntu server. And then there is the hardware like microphone arrays, robotic fingers to manipulate things like manual light switches, etc.. 
+      * While I have some low level code in C, most of Jarvis is just python.
+      * I have been expanding Jarvis quite a bit and it/ she is becoming a general purpose assisstant, capable of not only manage my apartment, but also having conversations, write code (sometimes even write code to improve herself. But only I can do the integration after reviewing the code), etc.. 
+      * Oh, you might have guessed it, I'm also using the ChatGPT API to simulate certain things like an intent recognition model, and run parts of my conversation engine (And yes. I've looked into the privacy policy of OpenAI, and I believe it is acceptable). 
 
 Just me
 ------
