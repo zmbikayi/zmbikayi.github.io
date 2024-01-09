@@ -16,35 +16,28 @@ I spent most of my early academic years in Russia, studying at Moscow Aviation I
 Research Interests
 ------
 
-This is easy. I am interested in flight control in general. Check out my <a href="https://zmbikayi.github.io/publications/"> publications.</a> Most of the papers are open access. But if you can't find a paper, shoot me an email and I will be happy to share the PDF.
+I am interested in flight control in general. Although in the past I did quite a bit of inner loop control, handling qualities and pilot-vehicle systems, now I am particularly interested in trajectory generation and control. Check out my <a href="https://zmbikayi.github.io/publications/"> publications.</a> Most of the papers are open access. But if you can't find a paper, shoot me an email and I will be happy to share the PDF.
 
-For those who have no idea what it means, well, I make flying things fly. Or more specifically, I make them such that they can be controlled either by a human or automatically. And by flying things, I mean aircraft, spacecraft, airships, etc... 
-
-For those saying "flight control" is a little broad, well, I've worked quite a bit in handling qualities, mathematical modeling of the human pilot behavior, and pilot vehicle systems, and mostly inner loop control.
-
-And I recently started shifting my interests towards trajectory generation and trajectory control.
-
+For those who have no idea what it means, well, I make flying things fly. By flying things, I mean aircraft, UAVs, airships, etc... 
 
 Personal Interests
 ------
-  * Playing music: I play the Piano and the Guitar. I got myself a Violin but I'm still trying to figure out how to get all the planets in the solar system, together with the sun, in the same room, to discuss the possibility of giving me days that are longer than 24 hours. Then I would able to learn the violin.
+  * Playing music: I play the Piano and the Guitar. Trying to learn the violin, the German Zither, and the accordion.
 
   * Photography: You can see some photos <a href="https://zmbikayi.github.io/portfolio">here</a>.
 
-  * Traditional archery: We can say that I am ready for the zombie apocalypse. Well, I just have to learn how to make my own arrows and I'll be ready. So, whoever is in charge of the apocalypses, please hold on your zombies a little longer.
+  * Traditional archery: I have a nice takedown recurve bow with a riser made out of wood. I love it.
 
-  * Biking: I measure my performance/ improvement by the number of times I fall, or couldn't control the bike in a drift. These metrics are starting to become useless because I can't even remember the last time I fell.
+  * Mountain biking: Mostly doing XC down the trails.
 
   * Paragliding (Haven't flown in a while though).
 
-  * Messing around with computers and networks, and doing DIY: For example I built myself a closed smart home system - Jarvis, with a special focus on privacy:
-    * I'm so obssessed with privacy that I purposefully include some randomness into my daily routine, and activities, just to confuse my enemies. I even have Jarvis randomly turn the lights on or off, whether I'm home or not. Get it? \
-    Well, I promise I don't have any enemies. At least none that I know of. And back to Jarvis:
-    * I try to do everything from scratch or using open source tools whose I code I can review myself before using. Or, as I typically do, take the parts of the open source code that are optimized already, and re-write the functionalities that I need:
-      * Of course the first step was to build the home server. Which is basically just a computer running Ubuntu server. And then there is the hardware like microphone arrays, robotic fingers to manipulate things like manual light switches, etc.. 
-      * While I have some low level code in C, most of Jarvis is just python.
-      * I have been expanding Jarvis quite a bit and it/ she is becoming a general purpose assisstant, capable of not only manage my apartment, but also having conversations, write code (sometimes even write code to improve herself. But only I can do the integration after reviewing the code), etc.. 
-      * Oh, you might have guessed it, I'm also using the ChatGPT API to simulate certain things like an intent recognition model, and run parts of my conversation engine (And yes. I've looked into the privacy policy of OpenAI, and I believe it is acceptable). 
+  * Messing around with computers and networks, and doing DIY: For example I built myself a closed smart home system - Jarvis, with a special focus on privacy.
+    
+    * I am following the same architecture as the human nervous system;
+    * I try to build everything from scratch or use open source tools. 
+    * Most of Jarvis is written in python.
+    * Jarvis is now a general purpose assistant, managing the home, having conversations, etc. It's a bit like Alexa on steroids.
 
 Just me
 ------
