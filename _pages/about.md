@@ -23,7 +23,8 @@ I am interested in flight control in general. Although in the past I did quite a
 Check out my <a href="https://zmbikayi.github.io/publications/"> publications.</a> Most of the papers are open access. But if you can't find a paper, shoot me an email and I will be happy to share the PDF.
 
 For those who have no idea what it means, well, I make flying things fly. By flying things, I mean aircraft, UAVs, airships, etc... 
-I am also a professional Scratcher (Not a DJ. More like a Simulink wizard).
+
+I am also a professional <a href="https://scratch.mit.edu/"> Scratcher  </a> (Not a DJ. More like a half Simulink wizard).
 
 Personal Interests
 ------
