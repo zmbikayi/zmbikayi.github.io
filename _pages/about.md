@@ -24,7 +24,7 @@ Check out my <a href="https://zmbikayi.github.io/publications/"> publications.</
 
 For those who have no idea what it means, well, I make flying things fly. By flying things, I mean aircraft, UAVs, airships, etc... 
 
-I am also a professional <a href="https://scratch.mit.edu/"> Scratcher  </a> (Not a DJ. More like a half Simulink wizard).
+I am also a professional <a href="https://scratch.mit.edu/" target="_blank">Scratcher</a> (Not a DJ. More like a half Simulink wizard).
 
 Personal Interests
 ------
